@@ -1,0 +1,7 @@
+#mysql_connector_repackaged==0.3.1
+Nasdaq_Data_Link==1.0.4
+numpy==1.23.4
+pandas==1.1.4
+PyMySQL==0.10.1
+python-dotenv==0.21.0
+mysql-connector-python
